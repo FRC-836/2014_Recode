@@ -2,16 +2,30 @@
 <Project Type="Project" LVVersion="17008000">
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.Project.Description" Type="Str"></Property>
+	<Property Name="varPersistentID:{00CFD521-87E8-4E45-A160-315478E62145}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/yButton</Property>
 	<Property Name="varPersistentID:{19EA99E1-1997-4908-9728-A072176BE4F9}" Type="Ref">/Target/devRefs.lvlib/pneumaticCommandClusterLeftCatapult</Property>
+	<Property Name="varPersistentID:{1C69FC5A-0049-46CB-BC25-CEEAFE42C225}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/aButton</Property>
 	<Property Name="varPersistentID:{20DD98C0-B415-4A68-9D9F-735D479E77FD}" Type="Ref">/Target/devRefs.lvlib/pneumaticCommandClusterIntake</Property>
 	<Property Name="varPersistentID:{21F76892-22EA-499F-BC1E-F6E07DF2180B}" Type="Ref">/Target/devRefs.lvlib/controlLoopRightCatapult</Property>
+	<Property Name="varPersistentID:{2530AACF-9567-4019-A2CD-92B59B80BA8D}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/rightBumperButton</Property>
 	<Property Name="varPersistentID:{2BC6FEEB-64DA-49FD-9F35-C2B9F80852A2}" Type="Ref">/Target/devRefs.lvlib/controlLoopIntake</Property>
+	<Property Name="varPersistentID:{2C50BE48-566A-4B08-8721-A9898F205421}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/leftTriggerButton</Property>
+	<Property Name="varPersistentID:{52ACC486-3F52-4BF8-B8C1-F3872B52F159}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/rightTriggerButton</Property>
+	<Property Name="varPersistentID:{5641184B-3492-4777-B751-C838C2F5EB9F}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/leftHorizontalJoystick</Property>
 	<Property Name="varPersistentID:{58E08A26-A0FF-4E5D-B9E1-20354F7F0D6F}" Type="Ref">/Target/devRefs.lvlib/senseLoopLeftCatapult</Property>
+	<Property Name="varPersistentID:{6097559B-4EB6-4C83-9D63-1AC481202982}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/bButton</Property>
 	<Property Name="varPersistentID:{65F6EF5C-E814-4FEB-B7F8-0D809F38F0F5}" Type="Ref">/Target/devRefs.lvlib/controlLoopLeftCatapult</Property>
 	<Property Name="varPersistentID:{6F6797B4-41F7-4062-9EEE-9AF4EF68CC77}" Type="Ref">/Target/devRefs.lvlib/pneumaticCommandClusterRightCatapult</Property>
 	<Property Name="varPersistentID:{81FF840E-4FDE-41DE-94E0-E5978CD7B34E}" Type="Ref">/Target/devRefs.lvlib/senseLoopRightCatapult</Property>
+	<Property Name="varPersistentID:{8D2A22D8-463E-4CA9-B560-73B87BF3F555}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/selectButton</Property>
+	<Property Name="varPersistentID:{94B2A351-C5A6-47A6-A5AB-B84CBE05B689}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/rightVerticalJoystick</Property>
 	<Property Name="varPersistentID:{9AD34928-B288-426B-ADE4-9A730B0640F8}" Type="Ref">/Target/devRefs.lvlib/senseLoopIntake</Property>
+	<Property Name="varPersistentID:{B9BBA988-9613-40FD-B1B7-32594C0128AF}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/rightHorizontalJoystick</Property>
+	<Property Name="varPersistentID:{BDB7D362-4A16-4607-98EE-5244CACE39EA}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/leftVerticalJoystick</Property>
+	<Property Name="varPersistentID:{C384327B-12B5-48CF-B316-41D17C524CF3}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/xButton</Property>
 	<Property Name="varPersistentID:{F0E0B78A-6AF6-4A53-9F1F-6B7ED674FA70}" Type="Ref">/Target/devRefs.lvlib/Drive DevRef Out</Property>
+	<Property Name="varPersistentID:{FC2DE13F-478F-40AE-B11C-8B51460DBB72}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/leftBumperButton</Property>
+	<Property Name="varPersistentID:{FCA848AF-CF54-4BB2-8215-B6AAE9805A0C}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/startButton</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
@@ -135,6 +149,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
 		<Item Name="devRefs.lvlib" Type="Library" URL="../devRefs.lvlib"/>
+		<Item Name="JoystickSharedVarLibrary.lvlib" Type="Library" URL="../JoystickSharedVarLibrary.lvlib"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
