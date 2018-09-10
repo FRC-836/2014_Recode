@@ -3,6 +3,8 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.Project.Description" Type="Str"></Property>
 	<Property Name="varPersistentID:{00CFD521-87E8-4E45-A160-315478E62145}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/yButton</Property>
+	<Property Name="varPersistentID:{05855752-4963-4FD2-B968-DCE01C2180E0}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/backRightEncoderDirection</Property>
+	<Property Name="varPersistentID:{1080FEDB-4609-4F6F-B7B9-82D0966BC2CD}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/yellowIRValue</Property>
 	<Property Name="varPersistentID:{19EA99E1-1997-4908-9728-A072176BE4F9}" Type="Ref">/Target/devRefs.lvlib/pneumaticCommandClusterLeftCatapult</Property>
 	<Property Name="varPersistentID:{1C69FC5A-0049-46CB-BC25-CEEAFE42C225}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/aButton</Property>
 	<Property Name="varPersistentID:{20DD98C0-B415-4A68-9D9F-735D479E77FD}" Type="Ref">/Target/devRefs.lvlib/pneumaticCommandClusterIntake</Property>
@@ -10,20 +12,42 @@
 	<Property Name="varPersistentID:{2530AACF-9567-4019-A2CD-92B59B80BA8D}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/rightBumperButton</Property>
 	<Property Name="varPersistentID:{2BC6FEEB-64DA-49FD-9F35-C2B9F80852A2}" Type="Ref">/Target/devRefs.lvlib/controlLoopIntake</Property>
 	<Property Name="varPersistentID:{2C50BE48-566A-4B08-8721-A9898F205421}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/leftTriggerButton</Property>
+	<Property Name="varPersistentID:{2CE6F162-2498-4F8F-AFDD-003924340C2B}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/bodyIMUYaw</Property>
+	<Property Name="varPersistentID:{327A8862-27A9-4493-9F40-65F20C724758}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/stringPotValue</Property>
+	<Property Name="varPersistentID:{32F28453-F6CB-4F2D-A460-8DB5EDE6A749}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/bodyIMUPitchWind</Property>
+	<Property Name="varPersistentID:{504E4487-A841-4196-A806-2F1CEDB04134}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/frontRightEncoderDistance</Property>
+	<Property Name="varPersistentID:{50F85D49-C20A-4270-8221-15A8940D0A31}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/catapultIMUPitchWind</Property>
+	<Property Name="varPersistentID:{51EF9EDF-0E3B-4AAA-8200-1BAAB24CF75B}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/bodyIMURollWind</Property>
 	<Property Name="varPersistentID:{52ACC486-3F52-4BF8-B8C1-F3872B52F159}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/rightTriggerButton</Property>
 	<Property Name="varPersistentID:{5641184B-3492-4777-B751-C838C2F5EB9F}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/leftHorizontalJoystick</Property>
 	<Property Name="varPersistentID:{58E08A26-A0FF-4E5D-B9E1-20354F7F0D6F}" Type="Ref">/Target/devRefs.lvlib/senseLoopLeftCatapult</Property>
+	<Property Name="varPersistentID:{5F638594-127A-44D8-B7FC-885A81B141E6}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/backLeftEncoderDistance</Property>
 	<Property Name="varPersistentID:{6097559B-4EB6-4C83-9D63-1AC481202982}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/bButton</Property>
 	<Property Name="varPersistentID:{65F6EF5C-E814-4FEB-B7F8-0D809F38F0F5}" Type="Ref">/Target/devRefs.lvlib/controlLoopLeftCatapult</Property>
+	<Property Name="varPersistentID:{66D65931-050F-4B70-9B86-127D75AB0B84}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/frontLeftEncoderDistance</Property>
+	<Property Name="varPersistentID:{6C136203-651A-4143-B947-E66607F944B3}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/bodyIMUYawWind</Property>
+	<Property Name="varPersistentID:{6F2E6FCF-556E-48C1-B6E8-B8A3A6EC30B9}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/frontRightEncoderDirection</Property>
 	<Property Name="varPersistentID:{6F6797B4-41F7-4062-9EEE-9AF4EF68CC77}" Type="Ref">/Target/devRefs.lvlib/pneumaticCommandClusterRightCatapult</Property>
 	<Property Name="varPersistentID:{81FF840E-4FDE-41DE-94E0-E5978CD7B34E}" Type="Ref">/Target/devRefs.lvlib/senseLoopRightCatapult</Property>
+	<Property Name="varPersistentID:{8561C954-9809-404C-8D15-358DAEF16E21}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/catapultIMURollWind</Property>
+	<Property Name="varPersistentID:{86E83ACA-D886-4496-852E-9F47FF6A4BBF}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/catapultIMUPitch</Property>
+	<Property Name="varPersistentID:{88299DA6-8171-4FF6-B8DD-8081A49C2B43}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/bodyIMUPitch</Property>
 	<Property Name="varPersistentID:{8D2A22D8-463E-4CA9-B560-73B87BF3F555}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/selectButton</Property>
+	<Property Name="varPersistentID:{90DB4776-6078-43B4-988D-9FB35D6A82C1}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/backRightEncoderDistance</Property>
+	<Property Name="varPersistentID:{933D63FB-EBE9-4EA7-A98E-514895CFA9F4}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/catapultIMUYaw</Property>
 	<Property Name="varPersistentID:{94B2A351-C5A6-47A6-A5AB-B84CBE05B689}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/rightVerticalJoystick</Property>
 	<Property Name="varPersistentID:{9AD34928-B288-426B-ADE4-9A730B0640F8}" Type="Ref">/Target/devRefs.lvlib/senseLoopIntake</Property>
+	<Property Name="varPersistentID:{9FC998DE-4C60-47A5-AF20-D95F69DC1845}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/catapultIMURoll</Property>
 	<Property Name="varPersistentID:{B9BBA988-9613-40FD-B1B7-32594C0128AF}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/rightHorizontalJoystick</Property>
 	<Property Name="varPersistentID:{BDB7D362-4A16-4607-98EE-5244CACE39EA}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/leftVerticalJoystick</Property>
 	<Property Name="varPersistentID:{C384327B-12B5-48CF-B316-41D17C524CF3}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/xButton</Property>
+	<Property Name="varPersistentID:{CAB3DC76-A711-4980-A9A1-3FBF2FFFB84A}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/catapultIMUYawWind</Property>
+	<Property Name="varPersistentID:{CEB6FC4D-DD80-4D24-9D87-079A956140E6}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/bodyIMURoll</Property>
+	<Property Name="varPersistentID:{D96EC85C-528E-4BBA-B9FD-10D5AC7B4362}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/ballAnalogSensorValue</Property>
+	<Property Name="varPersistentID:{E5CA4044-3DFB-47F2-9D03-4D1D6871F26B}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/frontLeftEncoderDirection</Property>
+	<Property Name="varPersistentID:{ECB99E09-4D68-4D02-8EFA-28A61617FF5B}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/armAnalogSensorValue</Property>
 	<Property Name="varPersistentID:{F0E0B78A-6AF6-4A53-9F1F-6B7ED674FA70}" Type="Ref">/Target/devRefs.lvlib/Drive DevRef Out</Property>
+	<Property Name="varPersistentID:{F7A11380-91F8-4D44-A5E1-9F0B97B4C32F}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/backLeftEncoderDirection</Property>
 	<Property Name="varPersistentID:{FC2DE13F-478F-40AE-B11C-8B51460DBB72}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/leftBumperButton</Property>
 	<Property Name="varPersistentID:{FCA848AF-CF54-4BB2-8215-B6AAE9805A0C}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/startButton</Property>
 	<Item Name="My Computer" Type="My Computer">
@@ -65,6 +89,7 @@
 		<Property Name="host.ResponsivenessCheckPingTimeout" Type="UInt">1000</Property>
 		<Property Name="host.TargetCPUID" Type="UInt">8</Property>
 		<Property Name="host.TargetOSID" Type="UInt">8</Property>
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="target.cleanupVisa" Type="Bool">false</Property>
 		<Property Name="target.DoNotReboot" Type="Bool">true</Property>
 		<Property Name="target.FPProtocolGlobals_ControlTimeLimit" Type="Int">300</Property>
@@ -148,9 +173,15 @@ AddOutputFilter chunkFilter
 			<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
+		<Item Name="catapultEnum.ctl" Type="VI" URL="../catapultEnum.ctl"/>
 		<Item Name="devRefs.lvlib" Type="Library" URL="../devRefs.lvlib"/>
+		<Item Name="driveEnum.ctl" Type="VI" URL="../driveEnum.ctl"/>
+		<Item Name="intakeEnum.ctl" Type="VI" URL="../intakeEnum.ctl"/>
 		<Item Name="JoystickSharedVarLibrary.lvlib" Type="Library" URL="../JoystickSharedVarLibrary.lvlib"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
+		<Item Name="Sensor Loop.vi" Type="VI" URL="../Sensor Loop.vi"/>
+		<Item Name="SensorLoop.vi" Type="VI" URL="../SensorLoop.vi"/>
+		<Item Name="SensorLoopSharedVar.lvlib" Type="Library" URL="../SensorLoopSharedVar.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Camera_Cluster.ctl" Type="VI" URL="/&lt;userlib&gt;/836-Library/Drive/Drive_Code_V2/Drive_Code_Support/SensorTypedefs/Camera_Cluster.ctl"/>
@@ -167,6 +198,8 @@ AddOutputFilter chunkFilter
 				<Item Name="ImuDevRef.ctl" Type="VI" URL="/&lt;userlib&gt;/836-Library/Sensor/IMU/ImuDevRef.ctl"/>
 				<Item Name="IMUOrientGetSetRefNum.vi" Type="VI" URL="/&lt;userlib&gt;/836-Library/Sensor/IMU/IMUOrientGetSetRefNum.vi"/>
 				<Item Name="IMUOrientOpen.vi" Type="VI" URL="/&lt;userlib&gt;/836-Library/Sensor/IMU/IMUOrientOpen.vi"/>
+				<Item Name="IMUOrientRead.vi" Type="VI" URL="/&lt;userlib&gt;/836-Library/Sensor/IMU/IMUOrientRead.vi"/>
+				<Item Name="IMUOrientRefNum Registry Get.vi" Type="VI" URL="/&lt;userlib&gt;/836-Library/Sensor/IMU/IMUOrientRefNum Registry Get.vi"/>
 				<Item Name="IMUOrientRefNum Registry Set.vi" Type="VI" URL="/&lt;userlib&gt;/836-Library/Sensor/IMU/IMUOrientRefNum Registry Set.vi"/>
 				<Item Name="JK_Latch.vi" Type="VI" URL="/&lt;userlib&gt;/836-Library/Logic/JK_Latch.vi"/>
 				<Item Name="Kiwi.vi" Type="VI" URL="/&lt;userlib&gt;/836-Library/Drive/Drive_Code_V2/Drive_Code_Support/DriveTrains/Kiwi/Kiwi.vi"/>
@@ -180,6 +213,8 @@ AddOutputFilter chunkFilter
 				<Item Name="Pneumatics_Notifier.ctl" Type="VI" URL="/&lt;userlib&gt;/836-Library/Pneumatics/Support_Code/Pneumatics_Notifier.ctl"/>
 				<Item Name="Pneumatics_Position.ctl" Type="VI" URL="/&lt;userlib&gt;/836-Library/Pneumatics/Support_Code/Pneumatics_Position.ctl"/>
 				<Item Name="Pneumatics_Status.ctl" Type="VI" URL="/&lt;userlib&gt;/836-Library/Pneumatics/Support_Code/Pneumatics_Status.ctl"/>
+				<Item Name="Quaternion to Euler.vi" Type="VI" URL="/&lt;userlib&gt;/836-Library/Sensor/IMU/Quaternion to Euler.vi"/>
+				<Item Name="Rot Order.ctl" Type="VI" URL="/&lt;userlib&gt;/836-Library/Sensor/IMU/Rot Order.ctl"/>
 				<Item Name="Sensor_Cluster.ctl" Type="VI" URL="/&lt;userlib&gt;/836-Library/Drive/Drive_Code_V2/Drive_Code_Support/SensorTypedefs/Sensor_Cluster.ctl"/>
 				<Item Name="Setup State.ctl" Type="VI" URL="/&lt;userlib&gt;/836-Library/Sensor/IMU/Setup State.ctl"/>
 				<Item Name="Solenoid_Control_Loop.ctl" Type="VI" URL="/&lt;userlib&gt;/836-Library/Pneumatics/Support_Code/Solenoid_Control_Loop.ctl"/>
@@ -188,6 +223,7 @@ AddOutputFilter chunkFilter
 				<Item Name="Tank_4_Motor.vi" Type="VI" URL="/&lt;userlib&gt;/836-Library/Drive/Drive_Code_V2/Drive_Code_Support/DriveTrains/Tank/Tank_4_Motor.vi"/>
 				<Item Name="Tank_6_Motor.vi" Type="VI" URL="/&lt;userlib&gt;/836-Library/Drive/Drive_Code_V2/Drive_Code_Support/DriveTrains/Tank/Tank_6_Motor.vi"/>
 				<Item Name="Tank_Allowed_Commands.vi" Type="VI" URL="/&lt;userlib&gt;/836-Library/Drive/Drive_Code_V2/Drive_Code_Support/DriveTrains/Tank/Tank_Allowed_Commands.vi"/>
+				<Item Name="Wrap2Wind.vi" Type="VI" URL="/&lt;userlib&gt;/836-Library/Sensor/Conversions/Wrap2Wind.vi"/>
 			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
@@ -249,6 +285,9 @@ AddOutputFilter chunkFilter
 				<Item Name="FPGA_CounterERRInvalidResource.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/Counter/FPGA_CounterERRInvalidResource.vi"/>
 				<Item Name="FPGA_CounterEventCtrMode.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/Counter/FPGA_CounterEventCtrMode.ctl"/>
 				<Item Name="FPGA_CounterOpen &amp; Configured.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/Counter/FPGA_CounterOpen &amp; Configured.vi"/>
+				<Item Name="FPGA_CounterOpen WO Configuration.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/Counter/FPGA_CounterOpen WO Configuration.vi"/>
+				<Item Name="FPGA_CounterReadOutput.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/Counter/FPGA_CounterReadOutput.vi"/>
+				<Item Name="FPGA_CounterReadTimerOutput.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/Counter/FPGA_CounterReadTimerOutput.vi"/>
 				<Item Name="FPGA_CounterWriteConfiguration.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/Counter/FPGA_CounterWriteConfiguration.vi"/>
 				<Item Name="FPGA_CounterWriteReset.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/Counter/FPGA_CounterWriteReset.vi"/>
 				<Item Name="FPGA_CounterWriteTimerConfiguration.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/Counter/FPGA_CounterWriteTimerConfiguration.vi"/>
@@ -279,6 +318,8 @@ AddOutputFilter chunkFilter
 				<Item Name="FPGA_EncoderOpen &amp; Configure.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/Encoder/FPGA_EncoderOpen &amp; Configure.vi"/>
 				<Item Name="FPGA_EncoderOpen WO Configuration.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/Encoder/FPGA_EncoderOpen WO Configuration.vi"/>
 				<Item Name="FPGA_EncoderOpen.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/Encoder/FPGA_EncoderOpen.vi"/>
+				<Item Name="FPGA_EncoderReadOutput.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/Encoder/FPGA_EncoderReadOutput.vi"/>
+				<Item Name="FPGA_EncoderReadTimerOutput.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/Encoder/FPGA_EncoderReadTimerOutput.vi"/>
 				<Item Name="FPGA_EncoderWriteConfiguration.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/Encoder/FPGA_EncoderWriteConfiguration.vi"/>
 				<Item Name="FPGA_EncoderWriteReset.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/Encoder/FPGA_EncoderWriteReset.vi"/>
 				<Item Name="FPGA_EncoderWriteTimerConfiguration.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/Encoder/FPGA_EncoderWriteTimerConfiguration.vi"/>
@@ -335,7 +376,10 @@ AddOutputFilter chunkFilter
 				<Item Name="NetComm_UnloadCPPStartupProgram.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/NetworkCommunication/NetComm_UnloadCPPStartupProgram.vi"/>
 				<Item Name="NetComm_UsageReport_report.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/NetworkCommunication/NetComm_UsageReport_report.vi"/>
 				<Item Name="NetComm_UsageReport_ResourceType.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/NetworkCommunication/NetComm_UsageReport_ResourceType.ctl"/>
+				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
+				<Item Name="NI_AALPro.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALPro.lvlib"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
+				<Item Name="NI_Kinematics.lvlib" Type="Library" URL="/&lt;vilib&gt;/robotics/Kinematics/NI_Kinematics.lvlib"/>
 				<Item Name="NI_LVConfig.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/config.llb/NI_LVConfig.lvlib"/>
 				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
 				<Item Name="NI_Vision_Acquisition_Software.lvlib" Type="Library" URL="/&lt;vilib&gt;/vision/driver/NI_Vision_Acquisition_Software.lvlib"/>
@@ -560,7 +604,9 @@ AddOutputFilter chunkFilter
 				<Item Name="WPI_EncoderCacheOp.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Encoder/WPI_EncoderCacheOp.ctl"/>
 				<Item Name="WPI_EncoderDevRef.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Encoder/WPI_EncoderDevRef.ctl"/>
 				<Item Name="WPI_EncoderERRInvalidDistancePerCount.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Encoder/WPI_EncoderERRInvalidDistancePerCount.vi"/>
+				<Item Name="WPI_EncoderGet.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Encoder/WPI_EncoderGet.vi"/>
 				<Item Name="WPI_EncoderOpen.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Encoder/WPI_EncoderOpen.vi"/>
+				<Item Name="WPI_EncoderRefNum Registry Get.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Encoder/WPI_EncoderRefNum Registry Get.vi"/>
 				<Item Name="WPI_EncoderRefNum Registry Set.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Encoder/WPI_EncoderRefNum Registry Set.vi"/>
 				<Item Name="WPI_EncoderType.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Encoder/WPI_EncoderType.ctl"/>
 				<Item Name="WPI_ERRAcquireInvalidPWMChannelIdx.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/PWM/WPI_ERRAcquireInvalidPWMChannelIdx.vi"/>
@@ -690,6 +736,17 @@ AddOutputFilter chunkFilter
 				<Item Name="WPI_UtilitiesFRCAutomaticValuePublisher.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Utilities/WPI_UtilitiesFRCAutomaticValuePublisher.vi"/>
 				<Item Name="WPI_UtilitiesTimebaseConstants.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Utilities/WPI_UtilitiesTimebaseConstants.vi"/>
 				<Item Name="Write Value Core.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Write Value Core.vi"/>
+				<Item Name="WPI_AnalogChannelRefNum Registry Get.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/AnalogChannel/WPI_AnalogChannelRefNum Registry Get.vi"/>
+				<Item Name="FPGA_AIERRInvalidAnalogChannel.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/AI/FPGA_AIERRInvalidAnalogChannel.vi"/>
+				<Item Name="FPGA_ReadAI.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/AI/FPGA_ReadAI.vi"/>
+				<Item Name="WPI_AnalogModuleGetValue.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/AnalogModule/WPI_AnalogModuleGetValue.vi"/>
+				<Item Name="WPI_AnalogChannelToAnalogModule.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/AnalogChannel/WPI_AnalogChannelToAnalogModule.vi"/>
+				<Item Name="WPI_AnalogChannelGetValue.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/AnalogChannel/WPI_AnalogChannelGetValue.vi"/>
+				<Item Name="WPI_DigitalInputRefNum Registry Get.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DigitalInput/WPI_DigitalInputRefNum Registry Get.vi"/>
+				<Item Name="FPGA_DIOReadDI.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/DIO/FPGA_DIOReadDI.vi"/>
+				<Item Name="WPI_DigitalModuleGetDIO.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DigitalModule/WPI_DigitalModuleGetDIO.vi"/>
+				<Item Name="WPI_DigitalInputToDigitalModule.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DigitalInput/WPI_DigitalInputToDigitalModule.vi"/>
+				<Item Name="WPI_DigitalInputGetValue.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/DigitalInput/WPI_DigitalInputGetValue.vi"/>
 			</Item>
 			<Item Name="FRC_NetworkCommunication.dll" Type="Document" URL="FRC_NetworkCommunication.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
@@ -697,6 +754,7 @@ AddOutputFilter chunkFilter
 			<Item Name="libc.so.6" Type="Document" URL="libc.so.6">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>

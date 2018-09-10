@@ -144,7 +144,7 @@
 		<Property Name="typedefName2" Type="Str">WPI_SolenoidValue.ctl</Property>
 		<Property Name="typedefPath1" Type="PathRel">/&lt;userlib&gt;/836-Library/Pneumatics/Support_Code/Pneumatics_Status.ctl</Property>
 		<Property Name="typedefPath2" Type="PathRel">/&lt;vilib&gt;/Rock Robotics/WPI/Solenoid/WPI_SolenoidValue.ctl</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%T,Q%!!"=!A!!!!!!'!%=!]1!!!!!!!!!"&amp;6"O:86N982J9X.@5X2B&gt;(6T,G.U&lt;!!J1"9!!Q&gt;'&lt;X*X98*E"V*F&gt;G6S=W5'47^W;7ZH!!!%27ZV&lt;1!!'%"Q!")!!1!!$&amp;.U982V=S"2&gt;76V:1!!2Q$RR6)69A!!!!%66V"*8V.P&lt;'6O&lt;WFE6G&amp;M&gt;75O9X2M!#F!&amp;A!%!U^G:A*0&lt;A&gt;'&lt;X*X98*E"V*F&gt;G6S=W5!!!6797RV:1!71(!!)1!"!!),5X2B&gt;(6T)%RP&lt;X!!41$RR6)69A!!!!%66V"*8V.P&lt;'6O&lt;WFE6G&amp;M&gt;75O9X2M!#^!&amp;A!%!U^G:A*0&lt;A&gt;'&lt;X*X98*E"V*F&gt;G6S=W5!!!N3:7RB?3"797RV:1!-!&amp;!!!Q!"!!-!"!!"!!5!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$GYA!!!"=!A!!!!!!&amp;!%=!]1!!!!!!!!!"&amp;6"O:86N982J9X.@5X2B&gt;(6T,G.U&lt;!!J1"9!!Q&gt;'&lt;X*X98*E"V*F&gt;G6S=W5'47^W;7ZH!!!%27ZV&lt;1!!'%"Q!")!!1!!$&amp;.U982V=S"2&gt;76V:1!!2Q$RR6)69A!!!!%66V"*8V.P&lt;'6O&lt;WFE6G&amp;M&gt;75O9X2M!#F!&amp;A!%!U^G:A*0&lt;A&gt;'&lt;X*X98*E"V*F&gt;G6S=W5!!!6797RV:1!71(!!)1!"!!),5X2B&gt;(6T)%RP&lt;X!!$!"1!!-!!1!$!!)!!1!%!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="senseLoopLeftCatapult" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Global</Property>
@@ -156,7 +156,7 @@
 		<Property Name="typedefName2" Type="Str">WPI_SolenoidValue.ctl</Property>
 		<Property Name="typedefPath1" Type="PathRel">/&lt;userlib&gt;/836-Library/Pneumatics/Support_Code/Pneumatics_Status.ctl</Property>
 		<Property Name="typedefPath2" Type="PathRel">/&lt;vilib&gt;/Rock Robotics/WPI/Solenoid/WPI_SolenoidValue.ctl</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%T,Q%!!"=!A!!!!!!'!%=!]1!!!!!!!!!"&amp;6"O:86N982J9X.@5X2B&gt;(6T,G.U&lt;!!J1"9!!Q&gt;'&lt;X*X98*E"V*F&gt;G6S=W5'47^W;7ZH!!!%27ZV&lt;1!!'%"Q!")!!1!!$&amp;.U982V=S"2&gt;76V:1!!2Q$RR6)69A!!!!%66V"*8V.P&lt;'6O&lt;WFE6G&amp;M&gt;75O9X2M!#F!&amp;A!%!U^G:A*0&lt;A&gt;'&lt;X*X98*E"V*F&gt;G6S=W5!!!6797RV:1!71(!!)1!"!!),5X2B&gt;(6T)%RP&lt;X!!41$RR6)69A!!!!%66V"*8V.P&lt;'6O&lt;WFE6G&amp;M&gt;75O9X2M!#^!&amp;A!%!U^G:A*0&lt;A&gt;'&lt;X*X98*E"V*F&gt;G6S=W5!!!N3:7RB?3"797RV:1!-!&amp;!!!Q!"!!-!"!!"!!5!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$GYA!!!"=!A!!!!!!&amp;!%=!]1!!!!!!!!!"&amp;6"O:86N982J9X.@5X2B&gt;(6T,G.U&lt;!!J1"9!!Q&gt;'&lt;X*X98*E"V*F&gt;G6S=W5'47^W;7ZH!!!%27ZV&lt;1!!'%"Q!")!!1!!$&amp;.U982V=S"2&gt;76V:1!!2Q$RR6)69A!!!!%66V"*8V.P&lt;'6O&lt;WFE6G&amp;M&gt;75O9X2M!#F!&amp;A!%!U^G:A*0&lt;A&gt;'&lt;X*X98*E"V*F&gt;G6S=W5!!!6797RV:1!71(!!)1!"!!),5X2B&gt;(6T)%RP&lt;X!!$!"1!!-!!1!$!!)!!1!%!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="senseLoopRightCatapult" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Global</Property>
@@ -168,6 +168,6 @@
 		<Property Name="typedefName2" Type="Str">WPI_SolenoidValue.ctl</Property>
 		<Property Name="typedefPath1" Type="PathRel">/&lt;userlib&gt;/836-Library/Pneumatics/Support_Code/Pneumatics_Status.ctl</Property>
 		<Property Name="typedefPath2" Type="PathRel">/&lt;vilib&gt;/Rock Robotics/WPI/Solenoid/WPI_SolenoidValue.ctl</Property>
-		<Property Name="typeDesc" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%T,Q%!!"=!A!!!!!!'!%=!]1!!!!!!!!!"&amp;6"O:86N982J9X.@5X2B&gt;(6T,G.U&lt;!!J1"9!!Q&gt;'&lt;X*X98*E"V*F&gt;G6S=W5'47^W;7ZH!!!%27ZV&lt;1!!'%"Q!")!!1!!$&amp;.U982V=S"2&gt;76V:1!!2Q$RR6)69A!!!!%66V"*8V.P&lt;'6O&lt;WFE6G&amp;M&gt;75O9X2M!#F!&amp;A!%!U^G:A*0&lt;A&gt;'&lt;X*X98*E"V*F&gt;G6S=W5!!!6797RV:1!71(!!)1!"!!),5X2B&gt;(6T)%RP&lt;X!!41$RR6)69A!!!!%66V"*8V.P&lt;'6O&lt;WFE6G&amp;M&gt;75O9X2M!#^!&amp;A!%!U^G:A*0&lt;A&gt;'&lt;X*X98*E"V*F&gt;G6S=W5!!!N3:7RB?3"797RV:1!-!&amp;!!!Q!"!!-!"!!"!!5!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+		<Property Name="typeDesc" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$GYA!!!"=!A!!!!!!&amp;!%=!]1!!!!!!!!!"&amp;6"O:86N982J9X.@5X2B&gt;(6T,G.U&lt;!!J1"9!!Q&gt;'&lt;X*X98*E"V*F&gt;G6S=W5'47^W;7ZH!!!%27ZV&lt;1!!'%"Q!")!!1!!$&amp;.U982V=S"2&gt;76V:1!!2Q$RR6)69A!!!!%66V"*8V.P&lt;'6O&lt;WFE6G&amp;M&gt;75O9X2M!#F!&amp;A!%!U^G:A*0&lt;A&gt;'&lt;X*X98*E"V*F&gt;G6S=W5!!!6797RV:1!71(!!)1!"!!),5X2B&gt;(6T)%RP&lt;X!!$!"1!!-!!1!$!!)!!1!%!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 </Library>
