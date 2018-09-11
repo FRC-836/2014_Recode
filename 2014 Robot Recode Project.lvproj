@@ -17,6 +17,7 @@
 	<Property Name="varPersistentID:{32F28453-F6CB-4F2D-A460-8DB5EDE6A749}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/bodyIMUPitchWind</Property>
 	<Property Name="varPersistentID:{504E4487-A841-4196-A806-2F1CEDB04134}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/frontRightEncoderDistance</Property>
 	<Property Name="varPersistentID:{50F85D49-C20A-4270-8221-15A8940D0A31}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/catapultIMUPitchWind</Property>
+	<Property Name="varPersistentID:{512F410F-82B0-4577-A77A-8617D1D568AE}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/Iteration Duration</Property>
 	<Property Name="varPersistentID:{51EF9EDF-0E3B-4AAA-8200-1BAAB24CF75B}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/bodyIMURollWind</Property>
 	<Property Name="varPersistentID:{52ACC486-3F52-4BF8-B8C1-F3872B52F159}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/rightTriggerButton</Property>
 	<Property Name="varPersistentID:{5641184B-3492-4777-B751-C838C2F5EB9F}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/leftHorizontalJoystick</Property>
@@ -37,6 +38,7 @@
 	<Property Name="varPersistentID:{933D63FB-EBE9-4EA7-A98E-514895CFA9F4}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/catapultIMUYaw</Property>
 	<Property Name="varPersistentID:{94B2A351-C5A6-47A6-A5AB-B84CBE05B689}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/rightVerticalJoystick</Property>
 	<Property Name="varPersistentID:{9AD34928-B288-426B-ADE4-9A730B0640F8}" Type="Ref">/Target/devRefs.lvlib/senseLoopIntake</Property>
+	<Property Name="varPersistentID:{9BD8D14F-6920-40FC-8819-04DFA0341454}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/Period</Property>
 	<Property Name="varPersistentID:{9FC998DE-4C60-47A5-AF20-D95F69DC1845}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/catapultIMURoll</Property>
 	<Property Name="varPersistentID:{B9BBA988-9613-40FD-B1B7-32594C0128AF}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/rightHorizontalJoystick</Property>
 	<Property Name="varPersistentID:{BDB7D362-4A16-4607-98EE-5244CACE39EA}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/leftVerticalJoystick</Property>
@@ -44,6 +46,7 @@
 	<Property Name="varPersistentID:{CAB3DC76-A711-4980-A9A1-3FBF2FFFB84A}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/catapultIMUYawWind</Property>
 	<Property Name="varPersistentID:{CEB6FC4D-DD80-4D24-9D87-079A956140E6}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/bodyIMURoll</Property>
 	<Property Name="varPersistentID:{D96EC85C-528E-4BBA-B9FD-10D5AC7B4362}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/ballAnalogSensorValue</Property>
+	<Property Name="varPersistentID:{DAB4AFDC-6DBC-4685-B560-B5B9A15F9395}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/Finished Late? [i-1]</Property>
 	<Property Name="varPersistentID:{E5CA4044-3DFB-47F2-9D03-4D1D6871F26B}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/frontLeftEncoderDirection</Property>
 	<Property Name="varPersistentID:{ECB99E09-4D68-4D02-8EFA-28A61617FF5B}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/armAnalogSensorValue</Property>
 	<Property Name="varPersistentID:{F0E0B78A-6AF6-4A53-9F1F-6B7ED674FA70}" Type="Ref">/Target/devRefs.lvlib/Drive DevRef Out</Property>
@@ -180,7 +183,6 @@ AddOutputFilter chunkFilter
 		<Item Name="JoystickSharedVarLibrary.lvlib" Type="Library" URL="../JoystickSharedVarLibrary.lvlib"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Sensor Loop.vi" Type="VI" URL="../Sensor Loop.vi"/>
-		<Item Name="SensorLoop.vi" Type="VI" URL="../SensorLoop.vi"/>
 		<Item Name="SensorLoopSharedVar.lvlib" Type="Library" URL="../SensorLoopSharedVar.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
