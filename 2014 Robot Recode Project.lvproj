@@ -5,10 +5,12 @@
 	<Property Name="varPersistentID:{00CFD521-87E8-4E45-A160-315478E62145}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/yButton</Property>
 	<Property Name="varPersistentID:{05855752-4963-4FD2-B968-DCE01C2180E0}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/backRightEncoderDirection</Property>
 	<Property Name="varPersistentID:{1080FEDB-4609-4F6F-B7B9-82D0966BC2CD}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/yellowIRValue</Property>
+	<Property Name="varPersistentID:{159EB6D7-6DC8-4FDC-9877-13CC7B84EA13}" Type="Ref">/Target/devRefs.lvlib/controlLoopRightCatapult</Property>
 	<Property Name="varPersistentID:{19EA99E1-1997-4908-9728-A072176BE4F9}" Type="Ref">/Target/devRefs.lvlib/pneumaticCommandClusterLeftCatapult</Property>
+	<Property Name="varPersistentID:{1BE457D3-25BF-495C-BCAA-37B271EBB5B2}" Type="Ref">/Target/PeriodicTasksLoopSharedVars.lvlib/PeriodicTasksFinishedLate?</Property>
 	<Property Name="varPersistentID:{1C69FC5A-0049-46CB-BC25-CEEAFE42C225}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/aButton</Property>
+	<Property Name="varPersistentID:{1E33C01F-44B4-4BC1-BEAD-7C0B96BCD67B}" Type="Ref">/Target/devRefs.lvlib/senseLoopRightCatapult</Property>
 	<Property Name="varPersistentID:{20DD98C0-B415-4A68-9D9F-735D479E77FD}" Type="Ref">/Target/devRefs.lvlib/pneumaticCommandClusterIntake</Property>
-	<Property Name="varPersistentID:{21F76892-22EA-499F-BC1E-F6E07DF2180B}" Type="Ref">/Target/devRefs.lvlib/controlLoopRightCatapult</Property>
 	<Property Name="varPersistentID:{2530AACF-9567-4019-A2CD-92B59B80BA8D}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/rightBumperButton</Property>
 	<Property Name="varPersistentID:{2BC6FEEB-64DA-49FD-9F35-C2B9F80852A2}" Type="Ref">/Target/devRefs.lvlib/controlLoopIntake</Property>
 	<Property Name="varPersistentID:{2C50BE48-566A-4B08-8721-A9898F205421}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/leftTriggerButton</Property>
@@ -18,14 +20,17 @@
 	<Property Name="varPersistentID:{32FF9C9A-5EAA-498E-B624-443E9DA21F09}" Type="Ref">/Target/DriveLoopSharedVar.lvlib/drivePeriod</Property>
 	<Property Name="varPersistentID:{355354B5-F839-466B-9D97-E5FBE28C6011}" Type="Ref">/Target/limelightSharedVar.lvlib/tyLimelight</Property>
 	<Property Name="varPersistentID:{3A15B508-451F-4AC1-BE77-92DD23BBEB1B}" Type="Ref">/Target/intakeTimedLoop.lvlib/intakeFinishedLate?</Property>
+	<Property Name="varPersistentID:{44BB1324-88D9-45F8-B44B-C672E23CF646}" Type="Ref">/Target/TeleopLoopSharedVars.lvlib/TeleopPeriod</Property>
 	<Property Name="varPersistentID:{504E4487-A841-4196-A806-2F1CEDB04134}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/frontRightEncoderDistance</Property>
 	<Property Name="varPersistentID:{50F85D49-C20A-4270-8221-15A8940D0A31}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/catapultIMUPitchWind</Property>
 	<Property Name="varPersistentID:{512F410F-82B0-4577-A77A-8617D1D568AE}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/sensorLoopIterationDuration</Property>
 	<Property Name="varPersistentID:{51EF9EDF-0E3B-4AAA-8200-1BAAB24CF75B}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/bodyIMURollWind</Property>
 	<Property Name="varPersistentID:{52ACC486-3F52-4BF8-B8C1-F3872B52F159}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/rightTriggerButton</Property>
+	<Property Name="varPersistentID:{5517DE8B-5DC1-42D1-B894-5DD909D51816}" Type="Ref">/Target/PeriodicTasksLoopSharedVars.lvlib/PeriodicTasksPeriod</Property>
 	<Property Name="varPersistentID:{5641184B-3492-4777-B751-C838C2F5EB9F}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/leftHorizontalJoystick</Property>
 	<Property Name="varPersistentID:{58E08A26-A0FF-4E5D-B9E1-20354F7F0D6F}" Type="Ref">/Target/devRefs.lvlib/senseLoopLeftCatapult</Property>
 	<Property Name="varPersistentID:{597B8029-3DAC-42BD-A796-EE9FC1573890}" Type="Ref">/Target/DriveLoopSharedVar.lvlib/driveFinishedLate?</Property>
+	<Property Name="varPersistentID:{5C8BB414-F17F-484A-B694-458E602F9AAB}" Type="Ref">/Target/states.lvlib/catatpultState</Property>
 	<Property Name="varPersistentID:{5F638594-127A-44D8-B7FC-885A81B141E6}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/backLeftEncoderDistance</Property>
 	<Property Name="varPersistentID:{6097559B-4EB6-4C83-9D63-1AC481202982}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/bButton</Property>
 	<Property Name="varPersistentID:{65F6EF5C-E814-4FEB-B7F8-0D809F38F0F5}" Type="Ref">/Target/devRefs.lvlib/controlLoopLeftCatapult</Property>
@@ -33,13 +38,12 @@
 	<Property Name="varPersistentID:{6B6B7BCA-4621-4B6F-96DE-D46D0D8418D2}" Type="Ref">/Target/catapultTimedLoop.lvlib/catapultPeriod</Property>
 	<Property Name="varPersistentID:{6C136203-651A-4143-B947-E66607F944B3}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/bodyIMUYawWind</Property>
 	<Property Name="varPersistentID:{6F2E6FCF-556E-48C1-B6E8-B8A3A6EC30B9}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/frontRightEncoderDirection</Property>
-	<Property Name="varPersistentID:{6F6797B4-41F7-4062-9EEE-9AF4EF68CC77}" Type="Ref">/Target/devRefs.lvlib/pneumaticCommandClusterRightCatapult</Property>
 	<Property Name="varPersistentID:{7DD1BC2F-4903-467A-8A4A-94B76F4BB423}" Type="Ref">/Target/catapultTimedLoop.lvlib/catapultFinishedLate?</Property>
-	<Property Name="varPersistentID:{81FF840E-4FDE-41DE-94E0-E5978CD7B34E}" Type="Ref">/Target/devRefs.lvlib/senseLoopRightCatapult</Property>
 	<Property Name="varPersistentID:{8561C954-9809-404C-8D15-358DAEF16E21}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/catapultIMURollWind</Property>
 	<Property Name="varPersistentID:{86E83ACA-D886-4496-852E-9F47FF6A4BBF}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/catapultIMUPitch</Property>
 	<Property Name="varPersistentID:{88299DA6-8171-4FF6-B8DD-8081A49C2B43}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/bodyIMUPitch</Property>
 	<Property Name="varPersistentID:{8D2A22D8-463E-4CA9-B560-73B87BF3F555}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/selectButton</Property>
+	<Property Name="varPersistentID:{8DE6C552-DED2-4026-8FFD-744234FE483B}" Type="Ref">/Target/TeleopLoopSharedVars.lvlib/TeleopFinishedLate?</Property>
 	<Property Name="varPersistentID:{90DB4776-6078-43B4-988D-9FB35D6A82C1}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/backRightEncoderDistance</Property>
 	<Property Name="varPersistentID:{91557825-2690-4BF8-8384-5FC3C59C1212}" Type="Ref">/Target/DriveLoopSharedVar.lvlib/driveActualEnd</Property>
 	<Property Name="varPersistentID:{926D6F9A-89C1-4D41-B881-E2D9C2900299}" Type="Ref">/Target/limelightSharedVar.lvlib/taLimelight</Property>
@@ -50,6 +54,7 @@
 	<Property Name="varPersistentID:{9FC998DE-4C60-47A5-AF20-D95F69DC1845}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/catapultIMURoll</Property>
 	<Property Name="varPersistentID:{A4DE0F99-2E59-4BDD-B242-3330EFFBE543}" Type="Ref">/Target/catapultTimedLoop.lvlib/catapultActualEnd</Property>
 	<Property Name="varPersistentID:{B1C6F0C2-EEB4-4912-B584-8D978F709D56}" Type="Ref">/Target/limelightSharedVar.lvlib/tsLimelight</Property>
+	<Property Name="varPersistentID:{B2B51AF3-4D46-45B6-AD20-F44F1BAE0BCA}" Type="Ref">/Target/TeleopLoopSharedVars.lvlib/TeleopActualEnd</Property>
 	<Property Name="varPersistentID:{B5580AF5-6695-450A-81A1-87ED4C6017C8}" Type="Ref">/Target/notification.lvlib/driveNotification</Property>
 	<Property Name="varPersistentID:{B5D04B6B-D2EC-40FE-98E2-059656F9A57C}" Type="Ref">/Target/intakeTimedLoop.lvlib/intakePeriod</Property>
 	<Property Name="varPersistentID:{B8A70650-AF27-4739-B96F-C6B0C87E216A}" Type="Ref">/Target/limelightSharedVar.lvlib/txLimelight</Property>
@@ -57,6 +62,7 @@
 	<Property Name="varPersistentID:{BB7C83B5-6302-4ED8-94B1-A13AF8DA0B0E}" Type="Ref">/Target/notification.lvlib/catapultNotification</Property>
 	<Property Name="varPersistentID:{BDB7D362-4A16-4607-98EE-5244CACE39EA}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/leftVerticalJoystick</Property>
 	<Property Name="varPersistentID:{C384327B-12B5-48CF-B316-41D17C524CF3}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/xButton</Property>
+	<Property Name="varPersistentID:{C64B4E90-72AE-42F1-87F6-01B7AE66B738}" Type="Ref">/Target/PeriodicTasksLoopSharedVars.lvlib/PeriodicTasksActualEnd</Property>
 	<Property Name="varPersistentID:{CAB3DC76-A711-4980-A9A1-3FBF2FFFB84A}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/catapultIMUYawWind</Property>
 	<Property Name="varPersistentID:{CC79ABD2-CE95-4A8C-AAE9-2F5A05EF0376}" Type="Ref">/Target/notification.lvlib/intakeNotification</Property>
 	<Property Name="varPersistentID:{CEB6FC4D-DD80-4D24-9D87-079A956140E6}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/bodyIMURoll</Property>
@@ -65,6 +71,7 @@
 	<Property Name="varPersistentID:{DCC779C9-41C8-4225-9262-AEBA588B8120}" Type="Ref">/Target/intakeTimedLoop.lvlib/intakeActualEnd</Property>
 	<Property Name="varPersistentID:{E5CA4044-3DFB-47F2-9D03-4D1D6871F26B}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/frontLeftEncoderDirection</Property>
 	<Property Name="varPersistentID:{ECB99E09-4D68-4D02-8EFA-28A61617FF5B}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/armAnalogSensorValue</Property>
+	<Property Name="varPersistentID:{EFCEB344-3D19-450B-8FB3-328B46110AB2}" Type="Ref">/Target/devRefs.lvlib/pneumaticCommandClusterRightCatapult</Property>
 	<Property Name="varPersistentID:{F0E0B78A-6AF6-4A53-9F1F-6B7ED674FA70}" Type="Ref">/Target/devRefs.lvlib/driveTrain</Property>
 	<Property Name="varPersistentID:{F7A11380-91F8-4D44-A5E1-9F0B97B4C32F}" Type="Ref">/Target/SensorLoopSharedVar.lvlib/backLeftEncoderDirection</Property>
 	<Property Name="varPersistentID:{FC2DE13F-478F-40AE-B11C-8B51460DBB72}" Type="Ref">/Target/JoystickSharedVarLibrary.lvlib/leftBumperButton</Property>
@@ -208,6 +215,11 @@ AddOutputFilter chunkFilter
 		<Item Name="intakeTimedLoop.lvlib" Type="Library" URL="../intakeTimedLoop.lvlib"/>
 		<Item Name="catapultLoop.vi" Type="VI" URL="../catapultLoop.vi"/>
 		<Item Name="catapultTimedLoop.lvlib" Type="Library" URL="../catapultTimedLoop.lvlib"/>
+		<Item Name="PeriodicTasksLoopSharedVars.lvlib" Type="Library" URL="../PeriodicTasksLoopSharedVars.lvlib"/>
+		<Item Name="TeleopLoopSharedVars.lvlib" Type="Library" URL="../TeleopLoopSharedVars.lvlib"/>
+		<Item Name="states.lvlib" Type="Library" URL="../states.lvlib"/>
+		<Item Name="intakeWheel.vi" Type="VI" URL="../intakeWheel.vi"/>
+		<Item Name="IMU.vi" Type="VI" URL="../IMU.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Camera_Cluster.ctl" Type="VI" URL="/&lt;userlib&gt;/836-Library/Drive/Drive_Code_V2/Drive_Code_Support/SensorTypedefs/Camera_Cluster.ctl"/>
@@ -288,10 +300,8 @@ AddOutputFilter chunkFilter
 				<Item Name="Drive_Cmd_Cheesey_Drive.vi" Type="VI" URL="/&lt;userlib&gt;/836-Library/Drive/Drive_Code_V2/Drive_Code_Support/Command_Sends/Drive_Cmd_Cheesey_Drive.vi"/>
 				<Item Name="Drive_Cmd_Approach_Camera.vi" Type="VI" URL="/&lt;userlib&gt;/836-Library/Drive/Drive_Code_V2/Drive_Code_Support/Command_Sends/Drive_Cmd_Approach_Camera.vi"/>
 				<Item Name="Drive_Loop_Command.vi" Type="VI" URL="/&lt;userlib&gt;/836-Library/Drive/Drive_Code_V2/Drive_Loop_Command.vi"/>
-				<Item Name="Pneumatics_Command_Set_Tele.vi" Type="VI" URL="/&lt;userlib&gt;/836-Library/Pneumatics/Support_Code/Pneumatics_Command_Set_Tele.vi"/>
-				<Item Name="Pneumatics_Command_Set_Periodic.vi" Type="VI" URL="/&lt;userlib&gt;/836-Library/Pneumatics/Support_Code/Pneumatics_Command_Set_Periodic.vi"/>
-				<Item Name="Pneumatics_Command_Set.vi" Type="VI" URL="/&lt;userlib&gt;/836-Library/Pneumatics/Pneumatics_Command_Set.vi"/>
 				<Item Name="Latch.vi" Type="VI" URL="/&lt;userlib&gt;/836-Library/Logic/Latch.vi"/>
+				<Item Name="Pneumatic_Control_Loop.vi" Type="VI" URL="/&lt;userlib&gt;/836-Library/Pneumatics/Pneumatic_Control_Loop.vi"/>
 			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
@@ -820,6 +830,14 @@ AddOutputFilter chunkFilter
 				<Item Name="NI_PID_pid.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/control/pid/NI_PID_pid.lvlib"/>
 				<Item Name="NI_PID__prctrl compat.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/control/pid/NI_PID__prctrl compat.lvlib"/>
 				<Item Name="lvpidtkt.dll" Type="Document" URL="/&lt;vilib&gt;/addons/control/pid/lvpidtkt.dll"/>
+				<Item Name="WPI_SolenoidRefNum Registry Set.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Solenoid/WPI_SolenoidRefNum Registry Set.vi"/>
+				<Item Name="WPI_SolenoidRefNum Registry Get.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Solenoid/WPI_SolenoidRefNum Registry Get.vi"/>
+				<Item Name="WPI_SolenoidGet.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Solenoid/WPI_SolenoidGet.vi"/>
+				<Item Name="WPI_SolenoidGetEnum.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Solenoid/WPI_SolenoidGetEnum.vi"/>
+				<Item Name="WPI_CAN_PCMReceive.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/CAN/PCM/WPI_CAN_PCMReceive.vi"/>
+				<Item Name="NetComm_CAN_Receive.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/NetworkCommunication/NetComm_CAN_Receive.vi"/>
+				<Item Name="WPI_SolenoidGetBool.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Solenoid/Deprecated/WPI_SolenoidGetBool.vi"/>
+				<Item Name="WPI_MotorControlRefNum Registry Set.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/MotorControl/WPI_MotorControlRefNum Registry Set.vi"/>
 			</Item>
 			<Item Name="FRC_NetworkCommunication.dll" Type="Document" URL="FRC_NetworkCommunication.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
